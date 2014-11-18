@@ -4,7 +4,7 @@
   <title><![CDATA[Techflections]]></title>
   <link href="http://maradatscha.github.io/atom.xml" rel="self"/>
   <link href="http://maradatscha.github.io/"/>
-  <updated>2014-11-18T23:01:27+01:00</updated>
+  <updated>2014-11-18T23:02:51+01:00</updated>
   <id>http://maradatscha.github.io/</id>
   <author>
     <name><![CDATA[Sebastian Koch]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p>Forgot to push the size changes&hellip;
 Will need to do them again, or push tomorrow.</p>
 
-<p>This is a test, why is this file not deployed???</p>
+<p>This file is now deployed, some history is lost, but I can now safely deploy from the iMac.</p>
 ]]></content>
   </entry>
   
