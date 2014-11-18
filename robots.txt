@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://ymaradatscha.github.io/sitemap.xml 
+Sitemap: http://maradatscha.github.io/sitemap.xml 
