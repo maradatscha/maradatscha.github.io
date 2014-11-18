@@ -139,7 +139,8 @@ body.sidebar-footer {
   }
   #content {
     overflow: visible;
-    margin-right: $sidebar-width-medium;
+    margin-right: 0;
+    border-right: 0;
     position: relative;
     .no-sidebar & { margin-right: 0; border-right: 0; }
     .collapse-sidebar & { margin-right: 20px; }
